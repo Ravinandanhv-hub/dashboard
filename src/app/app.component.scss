@@ -1,0 +1,32 @@
+.root {
+    display: flex;
+}
+
+.sidebar {
+    display: flex;
+    padding-left: 8px;
+    height: 100vh;
+    width: 260px;
+    top: 0%;
+    left: 0%;
+    background-color: aqua;
+}
+
+.dashboard {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+
+    // background-color: red;
+}
+
+img {
+    // min-height: 42px;
+    // max-height: 42px;
+    // min-width: 142px;
+    // max-width: 142px;
+    // background-repeat: no-repeat;
+    background-color: transparent;
+    // background-size: 186px;
+    // background-position: 50%
+}
